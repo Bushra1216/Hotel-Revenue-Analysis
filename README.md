@@ -8,7 +8,7 @@ This project involves in_depth analysis of hotel revenue, customer behaviour and
 
 <br>
 <img align="center" alt="explore" width="960" height="700" src="(https://github.com/user-attachments/assets/78068df0-2655-4634-b59f-af5bf8ccb371)">
-
+![revenue dashboard](https://github.com/user-attachments/assets/78068df0-2655-4634-b59f-af5bf8ccb371)
 
 
 ### Data Source
