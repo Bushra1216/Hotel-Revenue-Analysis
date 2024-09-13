@@ -4,7 +4,7 @@ Exploratory data analysis in hotel data using SQL and performance trends visuali
 
 
 ### Overview
-This project involves in_depth analysis of hotel revenue, customer behaviour and comprehensive visualization to convey key insights effectively. The goal is to uncover key business insights and trends that can inform hotel revenue profitable. Through comprehensive data exploration the analysis focused on understanding revenue growth, regional performance, cancellation rate analyzing and operational efficiency across various dimensions. 
+This project involves in_depth analysis of hotel revenue, customer behaviour and comprehensive visualization to convey key insights effectively. The goal is to uncover key business insights and trends that can  drive hotel profitability. Through comprehensive data exploration the analysis focused on understanding revenue growth, regional performance, cancellation rate analyzing and operational efficiency across various dimensions. 
 
 <br>
 <img align="center" alt="explore"  src="https://github.com/user-attachments/assets/612ff517-30c5-40e4-8ff4-90a7943a7a7e"> <br><br>
