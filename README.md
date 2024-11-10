@@ -9,7 +9,6 @@ This project involves in_depth analysis of hotel revenue, customer behaviour and
 <br>
 <img align="center" alt="explore"  src="https://github.com/user-attachments/assets/612ff517-30c5-40e4-8ff4-90a7943a7a7e"> <br><br>
 
-
 ### Data Source
 The dataset used in this project is [hotel revenue data](https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue) containing detailed information on hotel management.
 
