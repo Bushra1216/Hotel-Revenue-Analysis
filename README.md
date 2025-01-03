@@ -35,8 +35,9 @@ the analysis focused on the following:
 ### Results
 The analysis results are summarized as follows: <br>
  1. The revenue increased significantly from 2018 to 2019. However, it began to decline towards the end of Octobor 2019 to 2020.<br>
- 2. Andorra(AND) is the most profitable region over three years with the revenue of $2,531.63 per month.<br>
- 3. The average daily rate (ADR) increased steadily from $99.53 in 2019 to $104.45 in 2020 and they offered more discount from 2019 to attract customers more. <br>
- 4. By analyzing the required car spaces, it is concluded that there is enough space for parking. So there is no need to expand parking area. <br>
- 5. Hotel booking rate is decreased from 2019 to 2019 and the cancellation of booking percentage is increased after 2018. <br>
- 6. The broader revenue trajectory reveals an initial period of growth from 2018 to 2019, followed by a decline in 2020. Global disruptions, expensive booking rates may reduce the revenue after October 2019 which affecting both booking and overall revenue. <br>
+ 2. Out of 1,470 employees, 237 have left the organization, resulting in an attrition rate of 16.12%, with 1,233 active employees.<br>
+ 3. Andorra(AND) is the most profitable region over three years with the revenue of $2,531.63 per month.<br>
+ 4. The average daily rate (ADR) increased steadily from $99.53 in 2019 to $104.45 in 2020 and they offered more discount from 2019 to attract customers more. <br>
+ 5. By analyzing the required car spaces, it is concluded that there is enough space for parking. So there is no need to expand parking area. <br>
+ 6. Hotel booking rate is decreased from 2019 to 2019 and the cancellation of booking percentage is increased after 2018. <br>
+ 7. The broader revenue trajectory reveals an initial period of growth from 2018 to 2019, followed by a decline in 2020. Global disruptions, expensive booking rates may reduce the revenue after October 2019 which affecting both booking and overall revenue. <br>
