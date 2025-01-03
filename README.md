@@ -34,7 +34,7 @@ the analysis focused on the following:
 
 ### Results
 The analysis results are summarized as follows: <br>
- 1. The revenue increased significantly from 2018 to 2019. However, it began to decline towards the end of Octobor 2019 to 2020.<br>
+ 1. The revenue increased significantly from 2018 to 2019. However, it began to decline towards the end of October 2019 to 2020.<br>
  2. Andorra(AND) is the most profitable region over three years with the revenue of $2,531.63 per month.<br>
  3. The average daily rate (ADR) increased steadily from $99.53 in 2019 to $104.45 in 2020 and they offered more discount from 2019 to attract customers more. <br>
  4. By analyzing the required car spaces, it is concluded that there is enough space for parking. So there is no need to expand parking area. <br>
